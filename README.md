@@ -8,6 +8,7 @@ These are the MIPS programs from the CST 237 slides, ready to open in MARS.  Eac
 | [`02-what-the-assembler-does`](02-what-the-assembler-does/) | What the Assembler Does |
 | [`03-logic-and-branches`](03-logic-and-branches/) | MIPS: Logical Operations and Decisions |
 | [`04-procedures`](04-procedures/) | MIPS Procedures, Parts 1 and 2 |
+| [`05-arithmetic`](05-arithmetic/) | MIPS Arithmetic, Part 1: Integers |
 
 ## Running a program
 
@@ -21,7 +22,7 @@ To download everything at once, use the green **Code** button above, then **Down
 
 ## Pseudo-instructions
 
-`li`, `la`, `move` and the `blt`/`bge`/`bgt`/`ble` branches are not real MIPS instructions.  MARS replaces each one with one or two real instructions.  Every pseudo-instruction in these files has a comment showing what MARS turns it into, so you can check it against the Basic column.
+`li`, `la`, `move`, the `blt`/`bge`/`bgt`/`ble` branches and the three-register `div` and `rem` are not real MIPS instructions.  MARS replaces each one with one or two real instructions.  Every pseudo-instruction in these files has a comment showing what MARS turns it into, so you can check it against the Basic column.
 
 ## Credits
 
