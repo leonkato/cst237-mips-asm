@@ -10,6 +10,7 @@ These are the MIPS programs from the CST 237 slides, ready to open in MARS.  Eac
 | [`04-procedures`](04-procedures/) | MIPS Procedures, Parts 1 and 2 |
 | [`05-arithmetic`](05-arithmetic/) | MIPS Arithmetic, Part 1: Integers |
 | [`06-floating-point`](06-floating-point/) | MIPS Arithmetic, Part 2: Floating Point |
+| [`07-the-processor`](07-the-processor/) | The Processor, Part 1: The Datapath |
 
 ## Running a program
 
